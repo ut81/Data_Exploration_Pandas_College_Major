@@ -1,5 +1,4 @@
 # Data_Exploration_Pandas_College_Major
-Thank you for providing the specific column names in the dataset. Based on the column names you mentioned, here is an updated description of the dataset for your project:
 
 Dataset Title: College Major Salary Data
 
